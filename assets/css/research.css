@@ -208,6 +208,10 @@ li {
 }
 
 @media (max-width: 640px) {
+  .container {
+    padding: 0 32px;
+  }
+
   .site-header__inner {
     align-items: flex-start;
   }
